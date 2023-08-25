@@ -1,0 +1,57 @@
+.dp{ 
+    border-radius:200%;
+    width: 200;
+    height: 200;
+}
+.head{
+    color:pink;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size:60px;
+    text-align:center;
+}
+.item{
+    border-radius:200%;
+    width:150;
+    height:150;
+}
+.btn-lg{
+    width:150px;
+    height:40px;
+    font-size:18px;
+}
+.one {
+    height:50px;
+    width:50px;
+}
+.a1{
+    background-color:red;
+}
+.a2{
+    background-color:yellow;
+}
+.a3{
+    background-color:green;
+}
+.a4{
+    background-color:orange;
+}
+.a5{
+    background-color:blue;
+}
+.dress{
+    text-align: center;
+}
+.design{
+    height:150px;
+    width:200px;
+}
+body {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 100% 150%;
+    animation: gradient-animation 18s ease infinite;
+  } 
+  .btn{
+    background-color: black;
+    font-weight: bold;
+  }
